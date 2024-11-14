@@ -1,2 +1,2 @@
-# HR-Analytics
+# HR-Analytics in Excel
 Project Description: I recently created an interactive HR Analytics Dashboard to transform raw HR data into meaningful insights, which aids in strategic decision-making. Using dynamic visuals, I analyzed metrics like Employee Headcount, New Hires, Termination Rates, and Job Satisfaction, while integrating filters for Department, Working Years, and Job Role to customize the analysis.
